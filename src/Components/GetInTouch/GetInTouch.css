@@ -46,6 +46,12 @@
     align-items: center;
     border-radius: 5px;
     gap: 5px;
+    transition: all 0.3s ease-out;
+}
+
+.link button:hover {
+    cursor: pointer;
+    transform: translateY(-3px); 
 }
 
 .note-text {
