@@ -41,7 +41,7 @@
     transition: all 0.3s ease-out;
 }
 
-.nav-down a:hover {
+.nav-link:hover {
     transform: translateY(-3px); 
 }
 
