@@ -38,6 +38,11 @@
     color: #004875;
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-size: 21.33px;
+    transition: all 0.3s ease-out;
+}
+
+.nav-down a:hover {
+    transform: translateY(-3px); 
 }
 
 .gradient-line {
