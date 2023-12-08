@@ -19,6 +19,10 @@
     justify-content: flex-end;
 }
 
+.nav-top-links p:hover {
+    cursor: pointer;
+}
+
 .nav-down {
     display: flex;
     align-items: center;
