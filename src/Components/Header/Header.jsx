@@ -1,5 +1,5 @@
 import React from 'react'
-import woman from '../../assets/Images/woman.png'
+import woman from '../../assets/Images/Woman.png'
 import './Header.css'
 
 const Header = () => {
