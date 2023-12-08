@@ -1,6 +1,7 @@
 .get-in-touch {
     display: flex;
     padding: 50px 125px;
+    padding-bottom: 0;
     flex-direction: column;
 }
 
