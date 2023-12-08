@@ -8,7 +8,7 @@ const Navbar = () => {
   const navLinks = [ 
     { name: 'Resources', url: '/'},
     { url: '/', name: 'Provisional Funding Info' },
-    { url: '/contact_us', name: 'Contact Us' },
+    { url: '/contact-us', name: 'Contact Us' },
   ].filter(Boolean);
 
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
